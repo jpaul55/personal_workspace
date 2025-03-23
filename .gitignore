@@ -1,0 +1,16 @@
+# General
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+
+# Angular
+.angular/
+
+# Node
+.env
+
+# IDE
+.idea/
+.vscode/
